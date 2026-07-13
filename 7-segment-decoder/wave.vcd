@@ -1,0 +1,105 @@
+$date
+  Mon Jul 13 16:49:49 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module decoder7seg_tb $end
+$var reg 4 ! tb_binary_in[3:0] $end
+$var reg 7 " tb_seg_disp_out[6:0] $end
+$scope module uut $end
+$var reg 4 # binary_in[3:0] $end
+$var reg 7 $ seg_disp_out[6:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b0111111 "
+b0000 #
+b0111111 $
+#10000000
+b0001 !
+b0000110 "
+b0001 #
+b0000110 $
+#20000000
+b0010 !
+b1011011 "
+b0010 #
+b1011011 $
+#30000000
+b0011 !
+b1001111 "
+b0011 #
+b1001111 $
+#40000000
+b0100 !
+b0100110 "
+b0100 #
+b0100110 $
+#50000000
+b0101 !
+b1101101 "
+b0101 #
+b1101101 $
+#60000000
+b0110 !
+b1111101 "
+b0110 #
+b1111101 $
+#70000000
+b0111 !
+b0000111 "
+b0111 #
+b0000111 $
+#80000000
+b1000 !
+b1111111 "
+b1000 #
+b1111111 $
+#90000000
+b1001 !
+b1101111 "
+b1001 #
+b1101111 $
+#100000000
+b1010 !
+b1110111 "
+b1010 #
+b1110111 $
+#110000000
+b1011 !
+b1111100 "
+b1011 #
+b1111100 $
+#120000000
+b1100 !
+b1011000 "
+b1100 #
+b1011000 $
+#130000000
+b1101 !
+b1011110 "
+b1101 #
+b1011110 $
+#140000000
+b1110 !
+b1111001 "
+b1110 #
+b1111001 $
+#150000000
+b1111 !
+b1110001 "
+b1111 #
+b1110001 $
+#160000000
